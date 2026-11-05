@@ -155,8 +155,14 @@ I occasionally write about data engineering, cloud architecture, and software de
 ### GitHub Analytics
 
 <div align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=arkantsabit123&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arkantsabit123&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <i>Building systems that turn raw data into automated, production-ready applications.</i>
 </div>
 
 <br />
