@@ -1,70 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1200" height="300"
      viewBox="0 0 1200 300">
-
   <title>Arkan Tsabit - Developer Profile</title>
   <desc>Minimalist developer banner in dark mode.</desc>
-
   <rect width="1200" height="300" fill="#0d1117"/>
-
-  <rect x="70" y="66" width="5" height="166"
-        rx="2.5" fill="#58a6ff"/>
-
-  <text x="105" y="125"
-        fill="#f0f6fc"
-        font-size="52"
-        font-weight="800"
-        font-family="Arial, Helvetica, sans-serif"
-        letter-spacing="1.5">
-    ARKAN TSABIT
-  </text>
-
-  <text x="107" y="166"
-        fill="#58a6ff"
-        font-size="23"
-        font-weight="600"
-        font-family="Arial, Helvetica, sans-serif">
-    Full Stack Web Developer &amp; Cloud Data Engineer
-  </text>
-
-  <text x="107" y="204"
-        fill="#8b949e"
-        font-size="16"
-        font-family="Arial, Helvetica, sans-serif">
-    Bridging the gap between web experiences and data architecture.
-  </text>
-
-  <g opacity="0.25"
-     fill="none"
-     stroke="#58a6ff"
-     stroke-width="2">
+  <rect x="70" y="66" width="5" height="166" rx="2.5" fill="#58a6ff"/>
+  <text x="105" y="125" fill="#f0f6fc" font-size="52" font-weight="800" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.5">ARKAN TSABIT</text>
+  <text x="107" y="166" fill="#58a6ff" font-size="23" font-weight="600" font-family="Arial, Helvetica, sans-serif">Full Stack Web Developer &amp; Cloud Data Engineer</text>
+  <text x="107" y="204" fill="#8b949e" font-size="16" font-family="Arial, Helvetica, sans-serif">Bridging the gap between web experiences and data architecture.</text>
+  <g opacity="0.25" fill="none" stroke="#58a6ff" stroke-width="2">
     <path d="M890 92 L845 150 L890 208"/>
     <path d="M1000 92 L1045 150 L1000 208"/>
     <path d="M965 78 L930 222"/>
   </g>
-
   <g fill="#58a6ff" opacity="0.8">
-    <circle cx="1100" cy="90" r="3"/>
-    <circle cx="1130" cy="90" r="3"/>
-    <circle cx="1160" cy="90" r="3"/>
-    <circle cx="1100" cy="120" r="3"/>
-    <circle cx="1130" cy="120" r="3"/>
-    <circle cx="1160" cy="120" r="3"/>
-    <circle cx="1100" cy="150" r="3"/>
-    <circle cx="1130" cy="150" r="3"/>
-    <circle cx="1160" cy="150" r="3"/>
+    <circle cx="1100" cy="90" r="3"/><circle cx="1130" cy="90" r="3"/><circle cx="1160" cy="90" r="3"/>
+    <circle cx="1100" cy="120" r="3"/><circle cx="1130" cy="120" r="3"/><circle cx="1160" cy="120" r="3"/>
+    <circle cx="1100" cy="150" r="3"/><circle cx="1130" cy="150" r="3"/><circle cx="1160" cy="150" r="3"/>
   </g>
-
-  <path d="M105 245 H1095"
-        stroke="#30363d"
-        stroke-width="1"/>
-
-  <text x="107" y="270"
-        fill="#6e7681"
-        font-size="12"
-        font-family="Arial, Helvetica, sans-serif"
-        letter-spacing="2">
-    DEVELOPMENT / CLOUD / DATA / ENGINEERING
-  </text>
-
+  <path d="M105 245 H1095" stroke="#30363d" stroke-width="1"/>
+  <text x="107" y="270" fill="#6e7681" font-size="12" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">DEVELOPMENT / CLOUD / DATA / ENGINEERING</text>
 </svg>
