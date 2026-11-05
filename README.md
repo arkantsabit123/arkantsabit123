@@ -164,9 +164,3 @@ I occasionally write about data engineering, cloud architecture, and software de
 <div align="center">
   <i>Building systems that turn raw data into automated, production-ready applications.</i>
 </div>
-
-<br />
-
-<div align="center">
-  <i>Building systems that turn raw data into automated, production-ready applications.</i>
-</div>
